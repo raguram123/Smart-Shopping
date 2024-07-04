@@ -58,7 +58,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Author
 
-- [SHANMUGAM R](https://github.com/raguram123)
+- [Raguraman B](https://github.com/raguram123)
 - <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ## License
