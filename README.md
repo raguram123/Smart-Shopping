@@ -1,6 +1,6 @@
 # Redux Shopping Cart Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shanmugamrskfamily/react-redux-task)
+![GitHub repo size](https://taupe-fenglisu-7b999e.netlify.app/)
 
 <img src="./public/assets/Screenshot.png">
 
@@ -24,7 +24,7 @@ This project is a shopping cart website built with HTML, CSS, React, and Redux. 
 
 ## Demo
 
-Check out the live demo of the project [here](https://redux-shopping-cart-guvi-task.netlify.app/).
+Check out the live demo of the project [here](https://taupe-fenglisu-7b999e.netlify.app/).
 
 ## Screenshots
 
