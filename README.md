@@ -1,9 +1,5 @@
 # Redux Shopping Cart Website
 
-![GitHub repo size](https://taupe-fenglisu-7b999e.netlify.app/)
-
-<img src="./public/assets/Screenshot.png">
-
 ## Overview
 
 This project is a shopping cart website built with HTML, CSS, React, and Redux. It allows users to browse a list of products, add them to their cart, and manage their cart. This README provides an overview of the project's structure, features, and how to get it up and running.
@@ -62,8 +58,8 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Author
 
-- [SHANMUGAM R](https://github.com/Shanmugamrskfamily/)
-- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/in/shanmugamrskfamily/)
+- [SHANMUGAM R](https://github.com/raguram123)
+- <i class="fa fa-linkdln"></i>[LinkedIn Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 ## License
 
